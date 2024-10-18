@@ -1,0 +1,17 @@
+{
+    "name": "Infinity.Haptics",
+    "rootNamespace": "",
+    "references": [
+        "GUID:63e8524e4a4684596b3143ae6829b702",
+        "GUID:e4aa282f92fb436aa82ee40049657670"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
